@@ -1,2 +1,2 @@
 # gitdemobypwskills
-git demo lecture thought by pw skills
+git demo lecture taughtt by pw skills
